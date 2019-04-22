@@ -17,3 +17,5 @@ To run parallel tests,
 go test -v -run Parallel
 ```
 
+References: https://pdos.csail.mit.edu/6.824/index.html
+
